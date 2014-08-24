@@ -1,0 +1,76 @@
+body {
+	height: 100%;
+	width: 100%;
+	background: url('http://www.coolgizmotoys.com/images/2011/05/3467824079_6b414a0d16.jpg');
+}
+
+.gallery {
+	height: 350px;
+	width: 800px;
+	background: url("http://th00.deviantart.net/fs34/PRE/f/2008/311/c/0/Red_Sox_Wallpaper_by_JayJaxon.png");
+	margin: 100px 200px;
+	border-radius: 5px;
+	border: 5px solid gray;
+}
+
+.small {
+	height: 180px;
+	width: 140px;
+	padding: 85px 28px;
+}
+
+#modalBG {
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.8);
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+
+#victorinoBig {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 20px;
+	margin: 50px 300px;
+	z-index: 1000;
+	background: gray;
+}
+
+#pedroiaBig {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 20px;
+	margin: 50px 300px;
+	z-index: 1000;
+	background: gray;
+}
+
+#ortizBig {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 20px;
+	margin: 50px 300px;
+	z-index: 1000;
+	background: gray;
+}
+
+#napoliBig {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 20px;
+	margin: 50px 300px;
+	z-index: 1000;
+	background: gray;
+}
+
+
+
+.hidden {
+	display: none;
+}
